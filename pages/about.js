@@ -30,12 +30,12 @@ const About = ({ title, description, ...props }) => {
 
         <p className="description">
           Hi, I'm Zeshan. I'm an Associate at Morgan Stanley Investment
-          Management. In this blog, I hope to share my thoughts on things like
+          Management. In this blog, I hope to share my thoughts on topics like
           career development, software engineering, design and finance.
         </p>
 
         <p>
-          <a href="https://twitter.com/zshnamjd">Follow me on Twitter</a>
+          <a href="https://twitter.com/zshnamjd">Follow me on Twitter →</a>
         </p>
       </Layout>
     </>
