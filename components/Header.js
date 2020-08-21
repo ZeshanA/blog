@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from "next/link";
 
 export default function Header() {
   return (
@@ -6,7 +6,7 @@ export default function Header() {
       <header className="header">
         <nav className="nav" role="navigation" aria-label="main navigation">
           <Link href="/">
-            <a>Demo Blog</a>
+            <a>Thoughts On...</a>
           </Link>
           <Link href="/about">
             <a>About</a>
@@ -16,7 +16,7 @@ export default function Header() {
       <style jsx>{`
         header {
           width: 100%;
-          height: 100px;
+          height: 60px;
           border-bottom: 1px solid #eaeaea;
           display: flex;
           justify-content: center;
@@ -24,19 +24,24 @@ export default function Header() {
         }
         nav {
           width: calc(100% - 40px);
-          max-width: 1200px;
+          max-width: 960px;
           font-weight: bold;
           font-size: 1.3rem;
         }
         nav a {
           margin-right: 20px;
-          color: #00a395;
+          color: #121317;
+          font-weight: normal;
+          font-size: 18px;
           text-decoration: none;
+        }
+        nav a:first-child {
+          font-weight: bold;
         }
         nav a:hover {
           text-decoration: underline;
         }
       `}</style>
     </>
-  )
+  );
 }
