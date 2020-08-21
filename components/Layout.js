@@ -65,9 +65,7 @@ export default function Layout({ children, pageTitle, description, ...props }) {
         <Header />
         <div className="content">{children}</div>
       </section>
-      <footer>
-        Built with Next.js and deployed on Netlify. All rights reserved.
-      </footer>
+      <footer>© Zeshan Amjad, {new Date().getFullYear()}</footer>
     </>
   );
 }

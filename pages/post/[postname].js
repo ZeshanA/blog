@@ -18,7 +18,7 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
           </Link>
         </div>
         <article>
-          <h1>{frontmatter.title}</h1>
+          <h1 className="title">{frontmatter.title}</h1>
           {frontmatter.hero_image && (
             <img
               src={frontmatter.hero_image}
@@ -26,12 +26,29 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
               alt={frontmatter.title}
             />
           )}
-          <div>
+          <div className="articleText">
             <ReactMarkdown source={markdownBody} />
           </div>
         </article>
       </Layout>
       <style jsx>{`
+.title {
+font-size: 3em;
+}
+article :global(h1) {
+font-size: 2em;
+}
+article :global(h2) {
+font-size: 1.5em;
+}
+        article :global(ol > li),
+        article :global(ul > li) {
+          margin-bottom: 10px;
+        }
+        article :global(hr) {
+          margin: 2em 0;
+          border: solid 1px #eee;
+        }
         article {
           width: 100%;
           max-width: 960px;
@@ -57,8 +74,19 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
           max-width: 960px;
           color: black;
         }
-        article > div {
+        .articleText {
           line-height: 150%;
+        }
+        article :global(blockquote) {
+          margin: 0;
+          background: #f8f8f8;
+          padding: 10px 15px;
+          border-left: solid 5px #5d6dff;
+          font-style: italic;
+        }
+        :global(blockquote) :global(p) {
+          margin: 0;
+        }
         }
       `}</style>
     </>
