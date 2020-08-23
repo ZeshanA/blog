@@ -15,6 +15,7 @@ export default function PostList({ posts }) {
 
         li {
           margin-bottom: 1.5rem;
+          line-height: 150%;
         }
       `}</style>
       {!posts && <div>No posts!</div>}
