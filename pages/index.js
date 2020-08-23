@@ -1,7 +1,7 @@
-import Layout from '@components/Layout'
-import PostList from '@components/PostList'
+import Layout from "@components/Layout";
+import PostList from "@components/PostList";
 
-import getPosts from '@utils/getPosts'
+import getPosts from "@utils/getPosts";
 
 const Index = ({ posts, title, description, ...props }) => {
   return (
@@ -16,27 +16,27 @@ const Index = ({ posts, title, description, ...props }) => {
       <style jsx>{`
         .title {
           margin: 1rem auto;
-          font-size: 3rem;
+          font-size: 2rem;
         }
       `}</style>
     </>
-  )
-}
+  );
+};
 
-export default Index
+export default Index;
 
 export async function getStaticProps() {
-  const configData = await import(`../siteconfig.json`)
+  const configData = await import(`../siteconfig.json`);
 
-  const posts = ((context) => {
-    return getPosts(context)
-  })(require.context('../posts', true, /\.md$/))
+  const posts = (context => {
+    return getPosts(context);
+  })(require.context("../posts", true, /\.md$/));
 
   return {
     props: {
       posts,
       title: configData.default.title,
-      description: configData.default.description,
-    },
-  }
+      description: configData.default.description
+    }
+  };
 }
