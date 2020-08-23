@@ -4,15 +4,16 @@ author: 'Netlifriends'
 date: '2020-04-27'
 hero_image: ../static/cv/hero.jpg
 ---
-# Writing a CV They Can't Ignore
 
 Securing a job this year is going to be a struggle for most people. Whether you're a new graduate trying to get your foot in the door of an industry, or you've been made redundant and are looking to get back on your feet. Whatever your circumstances, your chances of getting a great new job usually start in the same place as everyone else: your CV. Here's how to write a CV that recruiters will *want* to read.
 
-Before we get started, who am I, and why should you listen to me? I'm currently an Associate at Morgan Stanley's Investment Management division, and I review the CVs of vulnerable people for a British charity ([The Prince's Trust](https://www.princes-trust.org.uk/)). Recruitment, and resumes in particular, are something I see all the time, and I'd love to share a few tips to help you improve yours. Still interested? Let's get started!
+---
+
+Before we get started, **who am I, and why should you listen to me?** I'm currently an Associate at Morgan Stanley's Investment Management division, and I review the CVs of vulnerable people for a British charity ([The Prince's Trust](https://www.princes-trust.org.uk/)). Recruitment, and resumes in particular, are something I see all the time, and I'd love to share a few tips to help you improve yours. Still interested? Let's get started!
 
 # 1 page, max. No, really.
 
-I completely see the appeal of including everything you've ever done of note in your CV. These achievements were likely hard-won and you have a right to be proud of them, no matter how small they are. But a lot of the CVs I've read come out at over the three page mark. The chances of all three pages being critically relevant to the role that you've applied for are near-zero. 
+I completely see the appeal of including everything you've ever done of note in your CV. These achievements were likely hard-won, and you have a right to be proud of them, no matter how small they are. But a lot of the CVs I've read come out at over the three-page mark. The chances of all three pages being critically relevant to the role that you've applied for are near-zero. 
 
 Think about when you're trying to choose between a handful of different products to buy - are you looking to read three pages of prose about each one? Or would you prefer a **single, focused page**, with the most relevant features for you highlighted in bold?
 
@@ -76,9 +77,9 @@ Here are some examples:
 
 ---
 
-> Apply this idea across your entire CV and your biggest accomplishments will be screaming out to the hiring manager
+> Apply this idea across your entire CV, and your biggest accomplishments will be screaming out to the hiring manager
 
-If I asked you to tell me the most impressive things mentioned in the the *"Before"* excerpts, it'd probably take you a while, and you'd hate every minute of it. But notice how much easier the *"After"* versions are to scan, and to pick out key achievements from. Apply this idea across your entire CV and your biggest accomplishments will be screaming out to the hiring manager - leaving you with a much better chance of making it past resume screens.
+If I asked you to tell me the most impressive things mentioned in the *"Before"* excerpts, it'd probably take you a while, and you'd hate every minute of it. But notice how much easier the *"After"* versions are to scan, and to pick out key achievements from. Apply this idea across your entire CV, and your biggest accomplishments will be screaming out to the hiring manager - leaving you with a much better chance of making it past résumé screens.
 
 # Results, outcomes, and concrete numbers.
 

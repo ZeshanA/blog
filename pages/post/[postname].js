@@ -37,9 +37,23 @@ font-size: 3em;
 }
 article :global(h1) {
 font-size: 2em;
+line-height: 130%;
+margin-bottom: 0.5em;
 }
 article :global(h2) {
 font-size: 1.5em;
+line-height: 130%;
+margin-bottom: 0;
+}
+
+article :global(h3) {
+font-size: 1.2em;
+line-height: 130%;
+margin-bottom: 0;
+}
+
+article :global(img) {
+max-width: 100%;
 }
         article :global(ol > li),
         article :global(ul > li) {
@@ -68,6 +82,7 @@ font-size: 1.5em;
         }
         .hero {
           width: 100%;
+          margin-bottom: 0.8em;
         }
         .back {
           width: 100%;
