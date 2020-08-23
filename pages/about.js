@@ -1,4 +1,5 @@
 import Layout from "@components/Layout";
+import React from "react";
 
 const About = ({ title, description, ...props }) => {
   return (
@@ -29,9 +30,10 @@ const About = ({ title, description, ...props }) => {
         <h2>A blog by Zeshan Amjad </h2>
 
         <p className="description">
-          Hi, I'm Zeshan. I'm an Associate at Morgan Stanley Investment
-          Management. In this blog, I hope to share my thoughts on topics like
-          career development, software engineering, design and finance.
+          Hi, I'm <a href={"https://zeshan.me"}>Zeshan</a>. I'm an Associate at
+          Morgan Stanley Investment Management. In this blog, I hope to share my
+          thoughts on topics like career development, software engineering,
+          design and finance.
         </p>
 
         <p>
