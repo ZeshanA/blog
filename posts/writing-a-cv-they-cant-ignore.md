@@ -73,7 +73,7 @@ Here are some examples:
 ### After (using AR format)
 
 - *Independently managed two **national-scale bulk mail outputs** (March 2018 & July 2018).*
-- S*uccess in this administrative project led to my **contract being extended** and being **promoted** to Accounts Payable Clerk.*
+- *Success in this administrative project led to my **contract being extended** and being **promoted** to Accounts Payable Clerk.*
 
 ---
 
