@@ -9,7 +9,7 @@ Securing a job this year is going to be a struggle for most people. Whether you'
 
 ---
 
-Before we get started, **who am I, and why should you listen to me?** I'm currently an Associate at Morgan Stanley's Investment Management division, and I review the CVs of vulnerable people for a British charity ([The Prince's Trust](https://www.princes-trust.org.uk/)). Recruitment, and resumes in particular, are something I see all the time, and I'd love to share a few tips to help you improve yours. Still interested? Let's get started!
+Before we get started, **who am I, and why should you listen to me?** I'm currently an Associate at a global asset management firm, and I review the CVs of vulnerable people for a British charity ([The Prince's Trust](https://www.princes-trust.org.uk/)). Recruitment, and resumes in particular, are something I see all the time, and I'd love to share a few tips to help you improve yours. Still interested? Let's get started!
 
 # 1 page, max. No, really.
 
